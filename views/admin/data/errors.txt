@@ -1,0 +1,14 @@
+Wrong email or password.
+Wrong email or password.
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'idCategory' in where clause is ambiguous
+SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'restaurant.p'
+SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'restaurant.p'
+SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'restaurant.p'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'price' in 'order clause'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.idCategory' in 'where clause'
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE idCategory = '3'' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY oldPrice' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY oldPrice' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY oldPrice' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY oldPrice DESC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? ORDER BY oldPrice' at line 1
